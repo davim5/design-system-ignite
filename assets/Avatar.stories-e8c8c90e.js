@@ -1,0 +1,2 @@
+import{A as t}from"./index-0ed32aa8.js";import"./index-c1d891bf.js";import"./iframe-50f6e294.js";import"./index-77c81e02.js";import"./jsx-runtime-2ec03f6b.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/davim5.png",alt:"Davi Lima"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories-e8c8c90e.js.map
